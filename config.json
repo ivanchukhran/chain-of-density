@@ -1,0 +1,16 @@
+{
+  "OPENAI_API_KEY": "",
+  "COMPLETION_CONFIG": {
+    "model": "gpt-4",
+    "temperature": 1.0,
+    "top_p": 1.0,
+    "n": 1,
+    "stream": false,
+    "stop": null,
+    "max_tokens": null,
+    "presence_penalty": 0,
+    "frequency_penalty": 0
+  },
+  "DATASET_PATH": "datasets/cnn_dailymail",
+  "NUM_SAMPLES": 50
+}
